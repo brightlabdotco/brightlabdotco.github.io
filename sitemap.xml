@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://www.brightlab.co/</loc>
-        <lastmod>2021-11-25</lastmod>
+        <lastmod>2022-01-12</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
         <loc>https://www.brightlab.co/blog/business-agility-trends-for-2021/</loc>
-        <lastmod>2021-11-25</lastmod>
+        <lastmod>2021-07-22</lastmod>
         <changefreq>daily</changefreq>
     </url>
     <url>
@@ -23,6 +23,11 @@
     <url>
         <loc>https://www.brightlab.co/blog/online-dating-during-covid/</loc>
         <lastmod>2021-10-13</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>https://www.brightlab.co/blog/the-complete-guide-to-agile-startup-management/</loc>
+        <lastmod>2022-01-12</lastmod>
         <changefreq>daily</changefreq>
     </url>
 </urlset>
